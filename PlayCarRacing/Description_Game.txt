@@ -1,0 +1,7 @@
+Mô tả Game : 
+Điều khiển ô tô tránh các vật cản xe máy
+Sử dụng Nút Trái (Left), Nút Phải (Right) để di chuyển xe
+Sử dụng Nút Up (Mũi tên lên) để tăng tốc độ
+Sử dụng nút Down (Mũi tên xuống) để giảm tốc độ
+
+/ * Yêu cầu máy đã cài .NET 6.0 Framework
